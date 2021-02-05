@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj": {}
+    "C:\\Users\\saadw\\source\\repos\\StarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj": {
+    "C:\\Users\\saadw\\source\\repos\\StarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj",
+        "projectUniqueName": "C:\\Users\\saadw\\source\\repos\\StarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj",
         "projectName": "TeleQuebecStarWars",
-        "projectPath": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj",
+        "projectPath": "C:\\Users\\saadw\\source\\repos\\StarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj",
         "packagesPath": "C:\\Users\\saadw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars\\obj\\",
+        "outputPath": "C:\\Users\\saadw\\source\\repos\\StarWars\\TeleQuebecStarWars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saadw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj": {
+    "C:\\Users\\saadw\\source\\repos\\StarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj",
+        "projectUniqueName": "C:\\Users\\saadw\\source\\repos\\StarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj",
         "projectName": "UnitTestProjectStarWars",
-        "projectPath": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj",
+        "projectPath": "C:\\Users\\saadw\\source\\repos\\StarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj",
         "packagesPath": "C:\\Users\\saadw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\UnitTestProjectStarWars\\obj\\",
+        "outputPath": "C:\\Users\\saadw\\source\\repos\\StarWars\\UnitTestProjectStarWars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saadw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj": {
-                "projectPath": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj"
+              "C:\\Users\\saadw\\source\\repos\\StarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj": {
+                "projectPath": "C:\\Users\\saadw\\source\\repos\\StarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj"
               }
             }
           }

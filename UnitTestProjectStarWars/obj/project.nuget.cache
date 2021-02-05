@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "veyu0Uezz5biDDfvrnCoNTgu8jPXVKKA7LI+IbjjXrSqxQ7Bwb+uqyHparGdYGdexGyT16MVBQl4I3r7LNO9cw==",
+  "dgSpecHash": "6U25FcebReQINQMq/Hs7kQEGcRDI8q5+NUyXgnEYkEzWmEoAvbr/uSM7YX3nCoQi53GZeCXP8JyYfS5475SkqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj",
+  "projectFilePath": "C:\\Users\\saadw\\source\\repos\\StarWars\\UnitTestProjectStarWars\\UnitTestProjectStarWars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saadw\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\saadw\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
