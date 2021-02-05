@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tUQw5X94HKGUlNEv3CAH1ZgiJ2ldZnaaxHI6rsOwA2iaiUHKo988lb89K0R0ykq0BoJPK3Q0iK650vtKrGhqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saadw\\Downloads\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars\\TeleQuebecStarWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saadw\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\saadw\\.nuget\\packages\\newtonsoft.json.schema\\3.0.13\\newtonsoft.json.schema.3.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
